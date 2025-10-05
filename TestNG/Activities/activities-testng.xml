@@ -18,7 +18,8 @@
 			<class name="Activities.TestActivity4DemoTwo" />
 			<class name="Activities.TestActivity6" />
 			<class name="Activities.TestActivity7" />
-			<class name="Activities.TestActivity7" />
+			<class name="Activities.TestActivity9" />
+			<class name="Activities.TestActivity10" />
 		</classes>
 	</test> <!--
 	Test -->
